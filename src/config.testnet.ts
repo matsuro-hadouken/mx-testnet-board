@@ -52,7 +52,7 @@ export const network: NetworkType = {
   gatewayAddress: 'https://testnet-gateway.multiversx.com',
   explorerAddress: 'http://testnet-explorer.multiversx.com',
   delegationContract:
-    'erd1qqqqqqqqqqqqqqqpqqqqqqqqqqqqqqqqqqqqqqqqqqqqqx8llllsxavffq'
+    'erd1qqqqqqqqqqqqqqqpqqqqqqqqqqqqqqqqqqqqqqqqqqqqqv8lllls3ydk0k'
 };
 
 export const delegationContractData: DelegationContractType[] = [
